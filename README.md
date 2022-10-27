@@ -5,6 +5,9 @@
 <div align="center">
 	<div class="container">
  		 <div class="row justify-content-md-center">
+			 <div class="col justify-content-md-center">
+		  Estudante em busca de novas oportunidades.
+			</div>
 		</div>
 	</div>
 <br>
