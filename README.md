@@ -3,10 +3,17 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/rCarlossDMC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlossDMC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossDMC&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+	<div class="container">
+ 		 <div class="row justify-content-md-center">
+		</div>
+	</div>
+<br>
+
+  <a href="https://github.com/guvargas">
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=guvargas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,issues"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvargas&layout=compact&langs_count=7&theme=tokyonight"/>
+<div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
