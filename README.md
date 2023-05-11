@@ -6,7 +6,7 @@
 	<div class="container">
  		 <div class="row justify-content-md-center">
 			 <div class="col justify-content-md-center">
-		  Estudante em busca de novas oportunidades.
+		  Sou um profissional apaixonado por tecnologia e programação, atualmente trabalhando com Visual Basic .NET. Sou aluno do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina, onde estou aprimorando minhas habilidades e conhecimentos na área. Além disso, tenho um curso completo de Java na plataforma Udemy e um curso técnico em Desenvolvimento de Sistemas pelo SENAI. Busco constantemente me atualizar e me desenvolver profissionalmente, sempre em busca de novos desafios e oportunidades para crescer na minha carreira.
 			</div>
 		</div>
 	</div>
