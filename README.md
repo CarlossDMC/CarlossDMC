@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💌 Caso tenha interesse em alguma das minhas habilidades não deixe de entrar em contato. ⤵️
+  💌 Caso tenha interesse em algumas das minhas habilidades não deixe de entrar em contato. ⤵️
 </p>
 
 
