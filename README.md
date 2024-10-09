@@ -2,20 +2,20 @@
 ![](https://komarev.com/ghpvc/?username=CarlossDMC&color=006bed)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
-   Sou um profissional apaixonado por tecnologia e programação, atualmente trabalhando com <Strong>Visual Basic .NET</Strong> mas também tenho projetos pessoais em diversar linguagens como <Strong>Java, JavaScript</Strong> com frameworks como <Strong>Angular e Spring</Strong>
- Sou aluno do curso de <Strong>ADS</Strong> no Instituto Federal de Santa Catarina, onde estou aprimorando minhas habilidades e conhecimentos na área. Além disso, tenho curso técnico em <Strong>Desenvolvimento de Sistemas pelo SENAI</Strong>.
- Busco constantemente me atualizar e me desenvolver profissionalmente, sempre em busca de novos desafios e oportunidades para crescer na minha carreira.<br>
+I am a professional passionate about technology and programming, currently working with <strong>Laravel</strong>, but I also have personal projects in various languages such as <strong>Java, JavaScript</strong> with frameworks like <strong>React and Spring</strong>.
+I am a student of <strong>ADS</strong> at the Federal Institute of Santa Catarina, where I am enhancing my skills and knowledge in the field. Additionally, I hold a technical degree in <strong>Systems Development from SENAI</strong>.
+I am constantly seeking to update myself and grow professionally, always looking for new challenges and opportunities to advance in my career.<br>
 
 </p>
 
 ##
 
 <p align="left">
-  🦄 <Strong>Linguagens/Frameworks:</Strong> Visual Basic, Java, JavaScript, React-Native, Spring, Angular.
+  🦄 <Strong>Linguagens/Frameworks:</Strong> Vs Code, Java, PHP, React, VUE.
 </p>
 
 <p align="left">
-  💼 <Strong>Ferramentas:</Strong> Visual Studio, Dbeaver, IntelliJ, Insomnia
+  💼 <Strong>Ferramentas:</Strong> VS Code, Dbeaver, IntelliJ, Insomnia
 </p>
 
 <p align="left">
