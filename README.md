@@ -19,7 +19,7 @@ I am constantly seeking to update myself and grow professionally, always looking
 </p>
 
 <p align="left">
-  💌 Caso tenha interesse em algumas das minhas habilidades não deixe de entrar em contato. ⤵️
+  💌 If you are interested in any of my skills, feel free to get in touch. ⤵️
 </p>
 
 
