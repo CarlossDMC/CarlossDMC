@@ -26,7 +26,7 @@ I am constantly seeking to update myself and grow professionally, always looking
 
 
 
-## Rede sociais
+## Social Media
 
   <a href="https://www.instagram.com/carlosdmcs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "carlosdaniel.mc@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
