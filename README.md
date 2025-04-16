@@ -36,6 +36,7 @@ I am constantly seeking to update myself and grow professionally, always looking
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=CarlossDMC&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossDMC&theme=github_dark&hide_border=true&count_private=true&card_width=500&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossDMC&theme=github_dark&hide_border=true&count_private=true&layout=compact&card_width=500&hide=html,css)
+
 
 
