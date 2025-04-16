@@ -34,11 +34,6 @@ I am constantly seeking to update myself and grow professionally, always looking
 
 ##
 
-<a href="https://github.com/CarlossDMC" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossDMC&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
 
-<a href="https://github.com/CarlossDMC" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlossDMC&show_icons=true&theme=dracula&line_height=27" alt="CarlossDMC github stats"/>
-</a>
-
+![](https://nirzak-streak-stats.vercel.app/?user=CarlossDMC&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossDMC&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
