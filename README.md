@@ -11,7 +11,7 @@ I am constantly seeking to update myself and grow professionally, always looking
 ##
 
 <p align="left">
-  🦄 <Strong>Linguagens/Frameworks:</Strong>Java, PHP, React, VUE.
+  🦄 <Strong>Linguagens/Frameworks:</Strong> Java, PHP, React, VUE.
 </p>
 
 <p align="left">
