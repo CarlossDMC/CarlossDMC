@@ -53,25 +53,11 @@ I'm a developer passionate about technology and programming. I currently work wi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlossDMC&theme=github_dark" alt="Profile summary" width="100%">
+  <img src="https://streak-stats.demolab.com/?user=CarlossDMC&theme=github-dark&hide_border=true&border_radius=10" alt="GitHub streak" width="80%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlossDMC&theme=github_dark" alt="Repos per language" height="200">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlossDMC&theme=github_dark" alt="Most commit language" height="200">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlossDMC&theme=github_dark" alt="Stats" height="200">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlossDMC&theme=github_dark&utcOffset=-3" alt="Productive time" height="200">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CarlossDMC&theme=github-dark&hide_border=true" alt="GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlossDMC&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlossDMC&theme=github-compact&hide_border=true&area=true&radius=10" alt="Contribution activity graph" width="80%">
 </p>
 
 ---
