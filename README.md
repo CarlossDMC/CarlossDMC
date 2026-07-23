@@ -1,42 +1,70 @@
-## Carlos Daniel Machado Costa
-![](https://komarev.com/ghpvc/?username=CarlossDMC&color=006bed)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
-I am a professional passionate about technology and programming, currently working with <strong>Laravel</strong>, but I also have personal projects in various languages such as <strong>Java, JavaScript</strong> with frameworks like <strong>React and Spring</strong>.
-I am a student of <strong>ADS</strong> at the Federal Institute of Santa Catarina, where I am enhancing my skills and knowledge in the field. Additionally, I hold a technical degree in <strong>Systems Development from SENAI</strong>.
-I am constantly seeking to update myself and grow professionally, always looking for new challenges and opportunities to advance in my career.<br>
+<h1 align="center">Hi there, I'm Carlos Daniel Machado Costa 👋</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/CarlosDMC/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/carlosdmcs/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:carlosdaniel.mc@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=CarlossDMC&color=006bed&style=for-the-badge&label=Profile+Views" alt="Profile views">
 </p>
 
-##
+---
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="380px" align="right">
+
+### 👨‍💻 About me
+
+I'm a developer passionate about technology and programming. I currently work with **Laravel**, and I also build personal projects in various languages such as **Java** and **JavaScript**, using frameworks like **React** and **Spring**.
+
+- 🎓 Studying **Analysis and Systems Development (ADS)** at the **Federal Institute of Santa Catarina (IFSC)**.
+- 🛠️ Technical degree in **Systems Development** from **SENAI**.
+- 🌱 Constantly learning and looking for new challenges and opportunities to grow professionally.
+- 💌 Interested in any of my skills? Feel free to reach out! ⤵️
+
+<br clear="right">
+
+---
+
+### 🚀 Tech Stack
+
+**Languages & Frameworks**
 
 <p align="left">
-  🦄 <Strong>Linguagens/Frameworks:</Strong> Java, PHP, React, VUE.
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
+
+**Tools**
 
 <p align="left">
-  💼 <Strong>Ferramentas:</Strong> VS Code, Dbeaver, IntelliJ, Insomnia
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ">
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<p align="left">
-  💌 If you are interested in any of my skills, feel free to get in touch. ⤵️
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlossDMC&theme=github_dark&hide_border=true&show_icons=true&count_private=true" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossDMC&theme=github_dark&hide_border=true&count_private=true&layout=compact&hide=html,css" alt="Top languages" height="165">
 </p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CarlossDMC&theme=github_dark&hide_border=true" alt="GitHub streak">
+</p>
 
+---
 
+### 🐍 Contribution Snake
 
-
-## Social Media
-
-  <a href="https://www.instagram.com/carlosdmcs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "carlosdaniel.mc@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/CarlosDMC/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-##
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=CarlossDMC&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossDMC&theme=github_dark&hide_border=true&count_private=true&layout=compact&card_width=500&hide=html,css)
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlossDMC/CarlossDMC/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+</p>
